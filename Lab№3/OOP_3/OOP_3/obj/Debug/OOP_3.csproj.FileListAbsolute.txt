@@ -1,0 +1,6 @@
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\bin\Debug\OOP_3.exe.config
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\bin\Debug\OOP_3.exe
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\bin\Debug\OOP_3.pdb
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\obj\Debug\OOP_3.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\obj\Debug\OOP_3.exe
+C:\Users\aleks\Documents\SharpDevelop Projects\OOP_3\OOP_3\obj\Debug\OOP_3.pdb
